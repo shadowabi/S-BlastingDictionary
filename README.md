@@ -3,6 +3,7 @@
 自己搜集的爆破字典，包括常用用户名、密码弱口令、SQL万能密码等  
 
 ## 更新日志：  
+2023.3.22 新增markdown字典  
 2023.3.9 更新password字典，webshell字典去重  
 2023.2.8 重做Username、Password字典，新增parameter、CN_username3000.txt字典  
 2023.1.16 删除xss字典  
